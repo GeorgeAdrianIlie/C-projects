@@ -1,0 +1,5 @@
+C:\Users\ilie_\Downloads\sort-random-numbers\SortRandomNumbers\obj\Debug\netcoreapp3.1\SortRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\ilie_\Downloads\sort-random-numbers\SortRandomNumbers\obj\Debug\netcoreapp3.1\SortRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\Downloads\sort-random-numbers\SortRandomNumbers\obj\Debug\netcoreapp3.1\SortRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\ilie_\Downloads\sort-random-numbers\SortRandomNumbers\obj\Debug\netcoreapp3.1\SortRandomNumbers.AssemblyInfo.cs
+C:\Users\ilie_\Downloads\sort-random-numbers\SortRandomNumbers\obj\Debug\netcoreapp3.1\SortRandomNumbers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\bin\Debug\netcoreapp3.1\SoccerTeamsRanking.exe
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\bin\Debug\netcoreapp3.1\SoccerTeamsRanking.deps.json
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\bin\Debug\netcoreapp3.1\SoccerTeamsRanking.runtimeconfig.json
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\bin\Debug\netcoreapp3.1\SoccerTeamsRanking.runtimeconfig.dev.json
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\bin\Debug\netcoreapp3.1\SoccerTeamsRanking.dll
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\bin\Debug\netcoreapp3.1\SoccerTeamsRanking.pdb
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.csproj.AssemblyReference.cache
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.AssemblyInfoInputs.cache
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.AssemblyInfo.cs
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.dll
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.pdb
+C:\Users\ilie_\Downloads\soccer-teams-ranking\SoccerTeamsRanking\obj\Debug\netcoreapp3.1\SoccerTeamsRanking.genruntimeconfig.cache

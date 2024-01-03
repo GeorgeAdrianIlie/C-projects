@@ -1,0 +1,14 @@
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\ilie_\Downloads\binary-search\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
