@@ -1,0 +1,14 @@
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\bin\Debug\netcoreapp3.1\SortByName.exe
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\bin\Debug\netcoreapp3.1\SortByName.deps.json
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\bin\Debug\netcoreapp3.1\SortByName.runtimeconfig.json
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\bin\Debug\netcoreapp3.1\SortByName.runtimeconfig.dev.json
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\bin\Debug\netcoreapp3.1\SortByName.dll
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\bin\Debug\netcoreapp3.1\SortByName.pdb
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.csproj.AssemblyReference.cache
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.AssemblyInfoInputs.cache
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.AssemblyInfo.cs
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.dll
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.pdb
+C:\Users\ilie_\Downloads\sort-by-name (1)\SortByName\obj\Debug\netcoreapp3.1\SortByName.genruntimeconfig.cache

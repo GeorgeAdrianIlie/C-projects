@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bY2OpgPFmvmfIy6TbpnvF1POPKYz534X0Yc4G9FmX4QIvNdjhXjqLw5tT3x9v5Qaup28KFti6oS6CLGXn1sjfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilie_\\Downloads\\sort-by-name (1)\\SortByName\\SortByName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilie_\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\roslynator.analyzers\\3.0.0\\roslynator.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\sonaranalyzer.csharp\\8.16.0.25740\\sonaranalyzer.csharp.8.16.0.25740.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
