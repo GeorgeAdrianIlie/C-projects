@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\bin\Debug\net6.0\CalculateFactorialOfNumberRecursively.exe
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\bin\Debug\net6.0\CalculateFactorialOfNumberRecursively.deps.json
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\bin\Debug\net6.0\CalculateFactorialOfNumberRecursively.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\bin\Debug\net6.0\CalculateFactorialOfNumberRecursively.dll
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\bin\Debug\net6.0\CalculateFactorialOfNumberRecursively.pdb
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.dll
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\refint\CalculateFactorialOfNumberRecursively.dll
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.pdb
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\CalculateFactorialOfNumberRecursively.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\CalculateFactorialOfNumberRecursively\obj\Debug\net6.0\ref\CalculateFactorialOfNumberRecursively.dll

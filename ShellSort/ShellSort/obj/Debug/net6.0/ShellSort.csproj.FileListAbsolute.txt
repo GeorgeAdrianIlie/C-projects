@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.exe
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.deps.json
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.runtimeconfig.json
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.dll
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.pdb
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.dll
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\refint\ShellSort.dll
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.pdb
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\ShellSort\ShellSort\obj\Debug\net6.0\ref\ShellSort.dll

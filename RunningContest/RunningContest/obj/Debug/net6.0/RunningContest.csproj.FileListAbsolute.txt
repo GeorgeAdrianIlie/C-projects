@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\bin\Debug\net6.0\RunningContest.exe
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\bin\Debug\net6.0\RunningContest.deps.json
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\bin\Debug\net6.0\RunningContest.runtimeconfig.json
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\bin\Debug\net6.0\RunningContest.dll
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\bin\Debug\net6.0\RunningContest.pdb
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.dll
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\refint\RunningContest.dll
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.pdb
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\RunningContest.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\RunningContest\RunningContest\obj\Debug\net6.0\ref\RunningContest.dll

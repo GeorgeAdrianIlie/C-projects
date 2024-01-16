@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\bin\Debug\net6.0\Quick3Sort.exe
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\bin\Debug\net6.0\Quick3Sort.deps.json
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\bin\Debug\net6.0\Quick3Sort.runtimeconfig.json
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\bin\Debug\net6.0\Quick3Sort.dll
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\bin\Debug\net6.0\Quick3Sort.pdb
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.dll
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\refint\Quick3Sort.dll
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.pdb
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\Quick3Sort.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Quick3Sort\Quick3Sort\obj\Debug\net6.0\ref\Quick3Sort.dll

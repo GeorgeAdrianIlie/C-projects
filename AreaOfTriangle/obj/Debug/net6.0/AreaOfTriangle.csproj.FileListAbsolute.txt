@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.exe
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.deps.json
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.dll
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.pdb
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.dll
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\refint\AreaOfTriangle.dll
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.pdb
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\AreaOfTriangle\obj\Debug\net6.0\ref\AreaOfTriangle.dll

@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\TestExercise\bin\Debug\net6.0\TestExercise.exe
+C:\Users\ilie_\source\repos\Alarm\TestExercise\bin\Debug\net6.0\TestExercise.deps.json
+C:\Users\ilie_\source\repos\Alarm\TestExercise\bin\Debug\net6.0\TestExercise.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\TestExercise\bin\Debug\net6.0\TestExercise.dll
+C:\Users\ilie_\source\repos\Alarm\TestExercise\bin\Debug\net6.0\TestExercise.pdb
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.dll
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\refint\TestExercise.dll
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.pdb
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\TestExercise.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\TestExercise\obj\Debug\net6.0\ref\TestExercise.dll

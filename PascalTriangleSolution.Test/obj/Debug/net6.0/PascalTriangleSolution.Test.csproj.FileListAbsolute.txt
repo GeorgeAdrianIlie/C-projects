@@ -1,0 +1,6 @@
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution.Test\obj\Debug\net6.0\PascalTriangleSolution.Test.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution.Test\obj\Debug\net6.0\PascalTriangleSolution.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution.Test\obj\Debug\net6.0\PascalTriangleSolution.Test.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution.Test\obj\Debug\net6.0\PascalTriangleSolution.Test.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution.Test\obj\Debug\net6.0\PascalTriangleSolution.Test.csproj.CoreCompileInputs.cache

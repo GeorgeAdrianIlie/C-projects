@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKM62DxDRwJmbiN9yiFCz8nZmEvU0p5ZPdEd/D6wP6CCM+vNI9n7W1JZUdOVB6bJ3NXHZ+wVbMcJBNTLX1Z8Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilie_\\source\\repos\\Alarm\\PasswordComplexityLevel\\PasswordSecurityLevel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilie_\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\roslynator.analyzers\\3.0.0\\roslynator.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\sonaranalyzer.csharp\\8.16.0.25740\\sonaranalyzer.csharp.8.16.0.25740.nupkg.sha512",
+    "C:\\Users\\ilie_\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\bin\Debug\net6.0\DominoRecursiveSolution.exe
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\bin\Debug\net6.0\DominoRecursiveSolution.deps.json
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\bin\Debug\net6.0\DominoRecursiveSolution.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\bin\Debug\net6.0\DominoRecursiveSolution.dll
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\bin\Debug\net6.0\DominoRecursiveSolution.pdb
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.dll
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\refint\DominoRecursiveSolution.dll
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.pdb
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\DominoRecursiveSolution.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\DominoRecursiveSolution\obj\Debug\net6.0\ref\DominoRecursiveSolution.dll

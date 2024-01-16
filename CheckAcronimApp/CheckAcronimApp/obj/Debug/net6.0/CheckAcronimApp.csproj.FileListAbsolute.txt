@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\bin\Debug\net6.0\CheckAcronimApp.exe
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\bin\Debug\net6.0\CheckAcronimApp.deps.json
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\bin\Debug\net6.0\CheckAcronimApp.runtimeconfig.json
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\bin\Debug\net6.0\CheckAcronimApp.dll
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\bin\Debug\net6.0\CheckAcronimApp.pdb
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.dll
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\refint\CheckAcronimApp.dll
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.pdb
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\CheckAcronimApp.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\CheckAcronimApp\CheckAcronimApp\obj\Debug\net6.0\ref\CheckAcronimApp.dll

@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\bin\Debug\net6.0\PascalTriangleSolution.exe
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\bin\Debug\net6.0\PascalTriangleSolution.deps.json
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\bin\Debug\net6.0\PascalTriangleSolution.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\bin\Debug\net6.0\PascalTriangleSolution.dll
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\bin\Debug\net6.0\PascalTriangleSolution.pdb
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.dll
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\refint\PascalTriangleSolution.dll
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.pdb
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\PascalTriangleSolution.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\PascalTriangleSolution\obj\Debug\net6.0\ref\PascalTriangleSolution.dll

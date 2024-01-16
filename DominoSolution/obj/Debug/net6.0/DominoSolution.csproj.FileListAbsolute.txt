@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\bin\Debug\net6.0\DominoSolution.exe
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\bin\Debug\net6.0\DominoSolution.deps.json
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\bin\Debug\net6.0\DominoSolution.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\bin\Debug\net6.0\DominoSolution.dll
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\bin\Debug\net6.0\DominoSolution.pdb
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.dll
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\refint\DominoSolution.dll
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.pdb
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\DominoSolution.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\DominoSolution\obj\Debug\net6.0\ref\DominoSolution.dll

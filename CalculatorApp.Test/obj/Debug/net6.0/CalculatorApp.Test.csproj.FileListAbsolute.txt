@@ -1,0 +1,6 @@
+C:\Users\ilie_\source\repos\Alarm\CalculatorApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ilie_\source\repos\Alarm\CalculatorApp.Test\obj\Debug\net6.0\CalculatorApp.Test.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\CalculatorApp.Test\obj\Debug\net6.0\CalculatorApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\CalculatorApp.Test\obj\Debug\net6.0\CalculatorApp.Test.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\CalculatorApp.Test\obj\Debug\net6.0\CalculatorApp.Test.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\CalculatorApp.Test\obj\Debug\net6.0\CalculatorApp.Test.csproj.CoreCompileInputs.cache

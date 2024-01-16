@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\bin\Debug\net6.0\FibonacciRecursive.exe
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\bin\Debug\net6.0\FibonacciRecursive.deps.json
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\bin\Debug\net6.0\FibonacciRecursive.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\bin\Debug\net6.0\FibonacciRecursive.dll
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\bin\Debug\net6.0\FibonacciRecursive.pdb
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.dll
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\refint\FibonacciRecursive.dll
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.pdb
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\FibonacciRecursive.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\FibonaciRecursive\obj\Debug\net6.0\ref\FibonacciRecursive.dll

@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\bin\Debug\net6.0\RecursivelyReplaceWordFromText.exe
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\bin\Debug\net6.0\RecursivelyReplaceWordFromText.deps.json
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\bin\Debug\net6.0\RecursivelyReplaceWordFromText.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\bin\Debug\net6.0\RecursivelyReplaceWordFromText.dll
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\bin\Debug\net6.0\RecursivelyReplaceWordFromText.pdb
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.dll
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\refint\RecursivelyReplaceWordFromText.dll
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.pdb
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\RecursivelyReplaceWordFromText.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\RecursivelyReplaceWordFromText\obj\Debug\net6.0\ref\RecursivelyReplaceWordFromText.dll

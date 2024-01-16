@@ -1,0 +1,13 @@
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\bin\Debug\netcoreapp2.1\ToGibberishUgly.deps.json
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\bin\Debug\netcoreapp2.1\ToGibberishUgly.runtimeconfig.json
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\bin\Debug\netcoreapp2.1\ToGibberishUgly.runtimeconfig.dev.json
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\bin\Debug\netcoreapp2.1\ToGibberishUgly.dll
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\bin\Debug\netcoreapp2.1\ToGibberishUgly.pdb
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.csproj.AssemblyReference.cache
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.AssemblyInfoInputs.cache
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.AssemblyInfo.cs
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.csproj.CoreCompileInputs.cache
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.dll
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.pdb
+D:\Courses Projects\exercitii efectuate c# - junior mind\to-gibberish-ugly\ToGibberishUgly\obj\Debug\netcoreapp2.1\ToGibberishUgly.genruntimeconfig.cache

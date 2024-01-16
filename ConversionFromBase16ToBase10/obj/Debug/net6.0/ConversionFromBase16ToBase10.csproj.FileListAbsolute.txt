@@ -1,0 +1,15 @@
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\bin\Debug\net6.0\ConversionFromBase16ToBase10.exe
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\bin\Debug\net6.0\ConversionFromBase16ToBase10.deps.json
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\bin\Debug\net6.0\ConversionFromBase16ToBase10.runtimeconfig.json
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\bin\Debug\net6.0\ConversionFromBase16ToBase10.dll
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\bin\Debug\net6.0\ConversionFromBase16ToBase10.pdb
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.csproj.AssemblyReference.cache
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.AssemblyInfoInputs.cache
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.AssemblyInfo.cs
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.csproj.CoreCompileInputs.cache
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.dll
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\refint\ConversionFromBase16ToBase10.dll
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.pdb
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ConversionFromBase16ToBase10.genruntimeconfig.cache
+C:\Users\ilie_\source\repos\Alarm\ConversionFromBase16ToBase10\obj\Debug\net6.0\ref\ConversionFromBase16ToBase10.dll
